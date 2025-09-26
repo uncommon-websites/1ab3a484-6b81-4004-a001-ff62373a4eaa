@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Creator-first",
+			description: "Every feature, every partnership, every decision starts with what creators actually need to succeed."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Revenue-focused",
+			description: "We measure success by how much more our creators earn, not by vanity metrics or engagement rates."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Platform-native",
+			description: "Built specifically for TikTok Shop—we understand the ecosystem and work within it, not against it."
 		}
 	];
 </script>
@@ -41,7 +41,7 @@
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
@@ -94,8 +94,8 @@
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Ready to maximize your creator income?"
+	subtitle="Join thousands earning more with brand partnerships"
+	description="Stop leaving money on the table. Get access to over 10,000 brand partnerships, streamlined TikTok Shop integration, and tools built specifically for creators who want to turn influence into real revenue."
+	imageSrc="/generated/image-a-professional-tiktok-creator-smiling-co.webp"
 />
