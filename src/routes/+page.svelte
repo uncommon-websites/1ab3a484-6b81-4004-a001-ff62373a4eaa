@@ -62,24 +62,26 @@
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Built for TikTok creators"
+	subtitle="Everything you need to maximize your TikTok Shop earnings in one unified platform"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "TikTok Shop revenue optimization",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"AI-powered analytics identify your highest-converting content and optimal posting times, turning missed opportunities into consistent revenue growth.",
+			imageSrc: "/generated/image-a-tiktok-creator-sits-at-a-cozy-coffee-s.webp"
 		},
 		{
-			title: "Data Analysis",
+			title: "Unified brand partnership hub",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Connect with premium brands seamlessly through our creator-first ecosystem, eliminating the fragmentation that limits your earning potential.",
+			imageSrc: "/generated/image-a-diverse-group-of-creators-and-brand-ma.webp"
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Creator growth analytics",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Deep TikTok Shop insights show exactly how to scale your presence and earnings with data-driven recommendations tailored to your niche.",
+			imageSrc: "/generated/image-a-young-creator-celebrating-personal-ach.webp"
 		}
 	]}
 />
