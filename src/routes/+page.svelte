@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="More money from your content."
+	subtitle="One platform to grow, sell, and partner."
+	imageSrc="/generated/image-a-group-of-confident-young-adults-captur.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by leading creators and brands"
+	logoUrls={[
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/glossier.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/gymshark.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/warbyparker.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
