@@ -26,20 +26,17 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Make creators the priority"
+	subtitle="Built for the TikTok Shop economy"
+	imageSrc="/generated/image-a-small-diverse-group-of-people-collabor.webp"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"The creator economy isn't broken. It's just scattered. Waves Network started with a simple question: why are so many TikTok creators losing money, even with millions of views? Founder Bruce Weaver saw creators struggling to manage brand deals, platform logistics, and order fulfillment—juggling ten open tabs while still missing out on real earnings. It wasn't a lack of talent. It was a fragmented system built for everyone but the people actually creating value.",
+		"So we built what creators truly needed. Waves Network was shaped by listening closely to TikTok Shop creators. We uncovered where the friction lived—disconnected brand communication, unclear pricing models, and limited access to shared insights. Step by step, we designed a unified platform that works the way creators do: fully aligned with TikTok Shop, creator-first by design, and focused on real revenue—not vanity metrics.",
+		"Today, we help TikTok creators turn influence into income by connecting them with over 10,000 brand partnerships. Our mission is simple—make the creator economy easier, more profitable, and built around the people driving its growth. When creators win, everyone wins. And we're just getting started."
 	]}
 />
 
